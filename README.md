@@ -9,6 +9,7 @@ previous worked, hope next one too
 updating
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 3rd time, 2nd time in github repo...cd into file..git init...open readme dile and update...checkout to diff branch..
 git fetch origin...git rebase origin/main...
 open file in folder and make some changes...git add and commit..then come here to update again
@@ -20,5 +21,7 @@ hello
 hie again
 =======
 >>>>>>> 31b1d6f6619155c4074720ab6f9388f99a8fd630
+=======
+>>>>>>> 31b1d6f (rebase expr)
 =======
 >>>>>>> 31b1d6f (rebase expr)
