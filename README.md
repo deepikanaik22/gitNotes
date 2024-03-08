@@ -14,5 +14,3 @@ hellooo echa palz
 hiii
 hello everynyaan
 hiii
-a
-c
