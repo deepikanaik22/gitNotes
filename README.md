@@ -18,10 +18,4 @@ hiii
 hello everynyaan
 hiii
 hello
-hie again
-=======
->>>>>>> 31b1d6f6619155c4074720ab6f9388f99a8fd630
-=======
->>>>>>> 31b1d6f (rebase expr)
-=======
->>>>>>> 31b1d6f (rebase expr)
+
